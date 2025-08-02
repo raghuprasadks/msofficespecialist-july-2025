@@ -1,0 +1,38 @@
+Program
+set of code
+set of instructions to perform specific
+task using a programming language
+
+Algorithm
+
+Software
+
+System software
+Operating system
+Application software
+Windows based application
+MS - Office
+notepad
+calculator
+Browser
+Webbased applications
+
+MS Office
+Excel - tabular
+Word
+Presentation
+
+Task -
+Create an excel sheet to store ipl2025
+table
+
+Assignment
+
+
+1. Top 10 GDP Countries 2025
+Get this data from the net in a csv or text file
+and import into the top10economy.xlsx
+
+https://cleartax.in/s/world-gdp-ranking-list extract Top 10 GDP Countries 2025 in csv
+
+

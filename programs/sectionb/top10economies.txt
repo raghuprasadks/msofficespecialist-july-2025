@@ -1,0 +1,11 @@
+SI No	Country Name	Continent	GDP (USD)*	GDP Per Capita (Current Prices) (USD)*
+1	United States	America	$30.51 trillion	$89.11 thousand
+2	China	Asia	$19.23 trillion	$13.69 thousand
+3	Germany	Europe	$4.74 trillion	$55.91 thousand
+4	India	Asia	$4.19 trillion	$2.88 thousand
+5	Japan	Asia	$4.19 trillion	$33.96 thousand
+6	United Kingdom (U.K.)	Europe	$3.84 trillion	$54.95 thousand
+7	France	Europe	$3.21 trillion	$46.39 thousand
+8	Italy	Europe	$2.42 trillion	$41.09 thousand
+9	Canada	America	$2.23 trillion	$53.56 thousand
+10	Brazil	America	$2.13 trillion	$9.96 thousand

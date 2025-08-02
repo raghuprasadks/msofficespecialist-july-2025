@@ -1,0 +1,46 @@
+Agenda:
+1. Convert tabular data into 
+a table
+a. using your own data
+b. extract data of Olympics medals
+for last 3 Olympics
+Extract data for top 10 teams
+convert this data into a csv file
+insert data into excel
+convert data into a table
+explore various options
+of table design
+2. Explore features of table design
+3. Visualization using various
+graphs
+
+Assignment
+1. Extract covid19 data
+from the net in following format
+for top 10 countries which are
+affected by covid
+Country Year Totalcase activecases recoveredcases deathcases
+2019-2022
+b. convert into a table
+c. Create a new column and name it as deathrate
+d. calculate deathrate for every country
+i,e (deathcases/totalcases)*100
+e. Display grand total of totalcases,activecases,recoveredcases,deathcases
+by adding above columns data. Display this at the end of the table
+f. Draw following graphs
+horizontal bargraph of country vs totalcases
+pie chart of country to depict deathcases
+spikeline to demonstrate growth of total cases for 
+each every over the year
+
+
+
+
+
+
+
+
+
+
+
+

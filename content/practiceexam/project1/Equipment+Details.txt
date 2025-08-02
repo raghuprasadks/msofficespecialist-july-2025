@@ -1,0 +1,4 @@
+Machine,Type,Lighting,Audio
+3,2,1,3
+Laptops,Trainers,Light Source,Microphone
+Macs,MOS Certified,300 Watts,Directional

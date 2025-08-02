@@ -1,0 +1,46 @@
+ecommerce
+1. customer
+customerid
+name
+email
+mobile
+address
+pincode
+2.category
+categoryid
+name
+3.supplier
+supplierid
+name
+contact
+4.shipper
+shipperid
+name
+5.product
+productid
+name
+description
+supplier
+shipper
+price
+unit
+6.order
+ordered
+orderdate
+customer
+amount
+7.orderdetails
+orderdetailsid
+ordered
+productid
+price
+quantity
+amount
+
+w3schools sql
+
+current price is 100
+with reference to this. Calculate the total revenue - sum(F2:F519)
+if the price is increased by 10 %
+then calculate the total revenue with increased price
+calculate the difference between the new revenue and old revenue

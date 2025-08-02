@@ -1,0 +1,28 @@
+Agenda:
+1. Functions
+w3schools excel
+AND
+if and
+
+=IF(AND(B17="Fire",C17>70),"Yes","No")
+
+AVERAGEIF
+=AVERAGEIF(B2:B10,E3,C2:C10)
+
+AVERAGEIFS
+=AVERAGEIFS(C2:C13,B2:B13,F3,D2:D13,G3)
+CONCAT
+=CONCAT(A2," ",B2," ",C2)
+
+
+Assignments:
+using functions
+w3schools sql
+1. Find the count of countries in customer sheet
+USA - 19
+France - 1
+UK - 8
+2. Find the count of productid in orderdetails sheet
+1 - 5
+2 - 11
+

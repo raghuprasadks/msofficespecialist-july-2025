@@ -1,0 +1,64 @@
+Recap
+1. Features
+Import a text file
+Import a csv file
+Olympic medals
+epl
+top 10 economies
+
+ecommerce application
+
+amazon
+sign up - customer
+customerid,name,email,mobile,address
+
+
+search for a product
+productid,name,description,price
+supplier
+category
+order
+orderid,orderdate,customerid,status
+orderdetails
+orderid,orderdetailsid,productid,rate,qty,amount
+employee
+
+steps
+w3schools sql
+click on the first link from w3schools
+click on try it your self
+buy the product
+
+Excel as per exam
+Named cell
+Range
+Search and replace
+hyperlink
+
+Assignment
+1. Search for country France 
+and let me know how many time France appears
+12
+2. Filter for the Country France and Brazil
+what is count of customers of both country
+21
+3. Replace UK with United Kingdom
+7
+
+
+
+1.create a new price column
+create price increment cell
+as per price increment value
+calculate the new price
+
+2.create total revised column
+calculate total as per the revised price
+
+3. Calculate sum of total revised column
+
+4. Find the difference between total revised with earlier sum of total 
+
+
+
+

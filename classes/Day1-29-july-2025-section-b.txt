@@ -1,0 +1,54 @@
+Algorithm
+set of instruction to perform some task
+Program
+Set of instructions using a specific language
+
+Software
+collection of programs
+System
+OS,device drivers
+application
+MS office
+windows based applications
+Web based applications
+mobile app
+Office 365
+
+Assignment
+1. Olympics medal table
+create olympicsmedals.xlsx
+create a table in above excel to
+capture top 5 teams information
+https://www.olympics.com/en/olympic-games/paris-2024/medals
+
+chatgpt
+display olympics 2024 medals table
+
+convert this into a csv file to download
+
+
+top10 economies in the world in 2025
+cleartax
+extract this data and
+create top10economies2025.xlsx file
+and display like a table
+
+in chatgpt
+
+use https://cleartax.in/s/world-gdp-ranking-list 
+extract Top 10 GDP Countries 2025 
+data in csv format
+
+
+
+
+
+
+
+
+
+
+
+
+
+

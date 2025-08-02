@@ -1,0 +1,21 @@
+Position,Team,Points,Outcome
+1,Liverpool,84,Champions, Champions League
+2,Arsenal,74,Champions League
+3,Manchester City,71,Champions League
+4,Chelsea,69,Champions League
+5,Newcastle United,66,Champions League via Europa League
+6,Aston Villa,66,Europa League
+7,Nottingham Forest,65,Europa League
+8,Brighton & Hove Albion,61,Mid-table
+9,AFC Bournemouth,58,Mid-table
+10,Brentford,57,Mid-table
+11,Fulham,56,Mid-table
+12,Crystal Palace,52,FA Cup winners – Conference League
+13,Everton,45,Lower mid-table
+14,West Ham United,41,Lower mid-table
+15,Manchester United,38,Worst ever PL finish
+16,Wolverhampton Wanderers,36,Struggled
+17,Tottenham Hotspur,35,Europa League winners
+18,Leicester City,25,Relegated
+19,Ipswich Town,22,Relegated
+20,Southampton,8,Relegated

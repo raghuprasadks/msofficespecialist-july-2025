@@ -1,0 +1,27 @@
+Agenda:
+1. Functions
+sum,max,min,average
+
+w3schools excel
+logical operators
+and or
+
+AND
+=AND(B3="Fire",C3>70)
+
+AND with if
+
+=IF(AND(B16="Fire",C16>70),"Yes","No")
+
+AVERAGE
+=AVERAGE(B3:E3)
+
+AVERAGEIF
+
+=AVERAGEIF(B3:B11,E4,C3:C11)
+
+Assignment
+
+Customers
+
+

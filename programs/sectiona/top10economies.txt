@@ -1,0 +1,11 @@
+Rank,Country,GDP (USD Trillion),GDP per Capita (USD)
+1,United States,30.51,89,110
+2,China,19.23,13,690
+3,Germany,4.74,55,910
+4,India,4.19,2,880
+5,Japan,4.19,33,960
+6,United Kingdom,3.84,54,950
+7,France,3.21,46,390
+8,Italy,2.42,41,090
+9,Canada,2.23,53,560
+10,Brazil,2.13,9,960

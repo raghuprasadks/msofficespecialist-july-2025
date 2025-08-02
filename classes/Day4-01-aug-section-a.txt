@@ -1,0 +1,31 @@
+Agenda:
+
+1. Convert tabular data into a table
+chatgpt
+top10 economies in the world in 2025 data in csv format
+add per capita,ppp
+i want clean data remove ~ and keep values as number
+would you like to download as csv
+yes
+
+2. Table operations
+3. Graphs
+
+Assignment
+1.Collect following data from net/chatgpt about covid
+in the form of csv
+country,year,totalcases,activecases,death,recovery
+2. insert data to the excel file
+3. calculate death rate - totaldeath/totalcases
+4. Calculate total of all these data
+5. Average death 
+6. Draw following graphs
+a. Barchart of country vs totalcases
+b. Piechart of country by showing death cases
+c. sparkline
+
+
+
+
+
+

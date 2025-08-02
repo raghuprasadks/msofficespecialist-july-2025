@@ -1,0 +1,5 @@
+Aircraft Type,Date of Purchase,Manufacturer
+Boeing 747, 21/1/1976,Boeing
+Airbus 343,11/6/1997,Airbus
+Folker 353,2/2/2007,Airbus
+Halkim 345,3/4/2017,Bombardier
