@@ -1,0 +1,46 @@
+Agenda:
+1. Usage of co-pilot as a code agent
+download and install visual studio code
+IDE - Integrated Development Environment
+download visual studio code community edition
+https://code.visualstudio.com/download
+sample wesite bcadept
+create copilot folder
+
+open copilot folder from visual studio code
+click co-pilot icon
+
+create a static website using html,css and javascript for bcadepartment
+this website should have home,aboutus,department,videogallery,
+photogallery,contactus,signup and login pages
+landing page is index.html
+
+1. create datastructure folder inside copilot
+2. open datastructure folder in visual studio code
+3. create stackdemo.java to demonstrate various
+functions of a stack
+
+restructure the code by creating different 
+methods for stack operation
+
+Ordermanagment in java
+create ordermanagment project to perform
+following tasks
+1. CRUD for customer
+2. CRUD for supplier
+3. CRUD for order
+A customer can by products 
+create separate java files
+
+2. co-pilot in MS Office
+excel
+powerpoint
+
+3. MO-200 sample project and 
+other sections
+Start with section 3
+
+
+
+
+

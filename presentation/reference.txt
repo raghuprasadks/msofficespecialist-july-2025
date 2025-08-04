@@ -5,3 +5,7 @@ https://certiport.pearsonvue.com/Certifications/Microsoft/MOS/Certify/Excel.aspx
 
 https://excelexercises.com/excel-functions
 /mo-200-excel-exam-practice.html
+
+https://www.geeksforgeeks.org/excel/data-analysis-in-excel/
+
+https://www.geeksforgeeks.org/data-analysis/data-analysis-project-with-excel/

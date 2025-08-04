@@ -1,0 +1,34 @@
+Agenda:
+1. 
+Office365
+700
+co-pilot
+Demonstrate co-pilot within 
+visual studio code
+steps
+1. Download and install visual
+studio code
+
+search for download visual studio code
+community edition
+
+https://code.visualstudio.com/download
+and install
+2. Create a folder copilot/website
+open this folder in visual studio code
+3. Sign up with co-pilot inside vscode
+
+in the prompt
+I want to create a website for BCA department of my college
+I want home,aboutus,videogallery, image gallery,contactus, sign up and 
+login pages
+My starting page should be index.html
+
+
+4. Co-pilot with Excel
+
+
+
+
+
+
