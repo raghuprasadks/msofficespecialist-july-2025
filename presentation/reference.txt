@@ -9,3 +9,6 @@ https://excelexercises.com/excel-functions
 https://www.geeksforgeeks.org/excel/data-analysis-in-excel/
 
 https://www.geeksforgeeks.org/data-analysis/data-analysis-project-with-excel/
+
+pivot table
+https://www.youtube.com/watch?v=PdJzy956wo4
