@@ -6,3 +6,17 @@ right 1- section 19 to 21
 3 - section 13 to 15
 4 - section 10 to 12
 
+Data Analytics
+1. Identifying data source
+2. Data verification
+duplicate,missing values
+not in properformat
+validation
+100
+120
+-5
+80-0
+3. Cleaning data - power query
+4. Data model
+5. Visualization - pivot table,graphs
+6. Summary - Summary - Dashboard
