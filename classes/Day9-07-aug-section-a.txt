@@ -1,0 +1,6 @@
+Agenda:
+1. Data Analytics mini project
+Step 1 : Gather data
+Step 2 : Verify data
+Step 3 : pivot chart
+

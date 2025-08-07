@@ -1,0 +1,33 @@
+Agenda:
+1. Data Analytics using excel
+a. Gathering data- Data - import
+csv,excel,text,
+sql
+kaggale
+b. Verifying the data - power query
+multiple excel,columns
+domain,relationship
+duplicate
+valid - age
+words
+outlayers
+100 - 105
+missing data
+c. data modelling
+d. visualization
+e. Dashboard
+
+pivot table
+section 
+batch 1 - 6,7,9
+batch 2 - 10,11,12
+batch 3 - 13,14,15
+batch 4 - 16,17,18
+https://www.geeksforgeeks.org/data-analysis/data-analysis-project-with-excel/
+
+
+
+
+
+
+
