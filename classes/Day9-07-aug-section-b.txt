@@ -1,0 +1,11 @@
+Agenda:
+1. Data Analytics mini project
+2. Instructions for MO-200 exam
+
+Data analytics project
+vrinda stores
+1. Gather data
+2. Data verification
+cleaning
+3. Reports
+
