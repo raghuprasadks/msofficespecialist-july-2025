@@ -1,0 +1,22 @@
+Title	Days	Hours	Last Term	Current Term	Next Term	Trend
+Drawing I	Monday	3:15-6:15 p.m.	26	25	28	
+	Wednesday	5:30-8:30 p.m.	27	25	27	
+Drawing II	Tuesday	2:15-5:15 p.m.	35	31	25	
+	Thursday	3:15-6:15 p.m.	30	32	26	
+	Tuesday	5:30-8:30 p.m.	31	29	28	
+Painting I	Monday	3:15-6:15 p.m.	32	35	29	
+	Wednesday	5:30-8:30 p.m.	30	28	31	
+Painting II	Tuesday	2:15-5:15 p.m.	26	29	28	
+	Thursday	3:15-6:15 p.m.	28	35	26	
+	Tuesday	5:30-8:30 p.m.	35	35	26	
+Sculpture I	Monday	3:15-6:15 p.m.	32	35	28	
+	Wednesday	5:30-8:30 p.m.	29	31	25	
+Photography I	Monday	3:15-6:15 p.m.	35	32	29	
+	Wednesday	5:30-8:30 p.m.	32	27	29	
+Photography II	Thursday	4:15-7:15 p.m.	32	27	33	
+Studio	Saturday	8:30-11:30 a.m.	22	22	17	
+	Saturday	1:30-4:30 p.m.	21	23	19	
+Art and Culture	Monday	3:15-6:15 p.m.	35	32	33	
+	Tuesday	5:30-8:30 p.m.	30	31	32	
+Art History	Wednesday	3:15-6:15 p.m.	32	34	35	
+	Thursday	5:30-8:30 p.m.	30	31	33	
